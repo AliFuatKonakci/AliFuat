@@ -1,4 +1,5 @@
 # 👋 Merhaba / Hi, I'm Ali Fuat Konakçı
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AliFuatKonakci.AliFuatKonakci)
 
 ---
 
@@ -12,6 +13,13 @@
 * **Veri Tabanı:** SQL, İlişkisel Veri Tabanı Tasarımı (RDBMS), ER Diyagramları, 3NF Normalizasyon
 * **Web Geliştirme:** HTML5, CSS3, Uyumlu (Responsive) Arayüz Tasarımı
 * **Otomasyon & Sistem:** Temel PLC & Kumanda Mantığı
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 📁 Öne Çıkan Çalışmalar:
 1. **C# Otomasyon ve Yazılım Mantığı:** Visual Studio ortamında C# ile geliştirilmiş arka plan kontrol algoritması ve test senaryoları.
