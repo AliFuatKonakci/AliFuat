@@ -36,8 +36,15 @@
 2. **Responsive Web Design:** Interactive web layouts built with modern HTML5/CSS3 techniques.
 3. **Relational Database Architecture:** Normalized database schemas (3NF) and optimized SQL queries using JOINs.
 
+### 📊 GitHub İstatistiklerim / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliFuatKonakci&show_icons=true&theme=tokyonight&count_private=true" alt="Ali Fuat's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliFuatKonakci&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📬 İletişim / Contact:
-* **E-posta / Email:** konakcialifuat918@gmail.com.com
+* **E-posta / Email:** konakcialifuat918@gmail.com
 * **Konum / Location:** Kastamonu, Turkey
