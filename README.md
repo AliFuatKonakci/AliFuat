@@ -13,7 +13,8 @@
 * **Veri Tabanı:** SQL, İlişkisel Veri Tabanı Tasarımı (RDBMS), ER Diyagramları, 3NF Normalizasyon
 * **Web Geliştirme:** HTML5, CSS3, Uyumlu (Responsive) Arayüz Tasarımı
 * **Otomasyon & Sistem:** Temel PLC & Kumanda Mantığı
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
